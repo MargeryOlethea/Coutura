@@ -15,5 +15,3 @@ export default function ImageCarousel() {
     </>
   );
 }
-
-// sm:h-64 xl:h-96 2xl:h-96
