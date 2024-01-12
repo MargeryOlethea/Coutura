@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+}
+
+.swal2-title {
+  color: black;
+  font-weight: 800;
+}
+
+.swal2-confirm {
+  background-color: #fda4af !important;
+  color: white !important;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 25px !important;
+}
+
+.swal2-popup {
+  border-radius: 25px !important;
+}
+
+.swal2-icon {
+  color: #fda4af !important;
+  border-color: #fda4af !important;
+}
