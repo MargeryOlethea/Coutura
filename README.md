@@ -10,7 +10,7 @@
 
 ### Routes
 
-- [**List of Products:** Coutura Public Products](https://coutura-public.vercel.app/)
+- [**List of Products:**](https://coutura-public.vercel.app/) Coutura Public Products
 
 ### Features
 
